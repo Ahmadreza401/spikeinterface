@@ -20,7 +20,7 @@ setup(
     description="Python toolkit for analysis, visualization, and comparison of spike sorting output",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/SpikeInterface/spikeinterface",
+    url="https://github.com/Ahmadreza401/spikeinterface",
     packages=find_packages(),
     package_data={},
     install_requires=install_requires,

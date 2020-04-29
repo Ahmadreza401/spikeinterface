@@ -30,3 +30,5 @@ setup(
         "Operating System :: OS Independent",
     )
 )
+
+print('Ahmad version of the code')

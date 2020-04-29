@@ -28,7 +28,7 @@ You can install SpikeInterface from pip:
 Alternatively, you can clone the repository and install from sources the development version:
 
 ```bash
-git clone https://github.com/SpikeInterface/spikeinterface.git
+git clone https://github.com/Ahmadreza401/spikeinterface
 cd spikeinterface
 python setup.py develop
 ```

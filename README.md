@@ -2,6 +2,7 @@
 
 # SpikeInterface
 
+new edition.
 SpikeInterface is a Python framework designed to unify preexisting spike sorting technologies into a single code base.
 
 `spikeinterface` is a meta-package that wraps 5 other Python packages from the SpikeInterface team:
